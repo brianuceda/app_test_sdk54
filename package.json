@@ -1,0 +1,31 @@
+{
+  "name": "app_test_sdk54",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "babel-preset-expo": "^54.0.6",
+    "expo": "~54.0.18",
+    "expo-status-bar": "~3.0.8",
+    "moti": "^0.30.0",
+    "nativewind": "^4.2.1",
+    "prettier-plugin-tailwindcss": "^0.5.14",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-reanimated": "~4.1.1",
+    "react-native-safe-area-context": "~5.6.0",
+    "react-native-worklets": "0.5.1",
+    "react-native-worklets-core": "^1.6.2",
+    "tailwindcss": "^3.4.18"
+  },
+  "devDependencies": {
+    "@types/react": "~19.1.0",
+    "typescript": "~5.9.2"
+  },
+  "private": true
+}
